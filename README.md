@@ -55,33 +55,31 @@ Run your application:
 target/default/jubei
 ```
 
-# Introduction to jubei
+# Reference
 
-<table style="border: 0px solid #fff;">
-    <tr>
-        <td>
-<pre>
+```
 Bandit Boss: [after Jubei defeats a trio of bandits]
              Then, it's true! They hired you for 
              only 20 pieces of gold, Jubei?
+
       Jubei: Yeah.
+
 Bandit Boss: But the sword we stole was a precious 
              treasure given by the Shogun! 
              And they're paying you only 20 pieces
              of gold for getting it back for them?
              [laughs]
              You fool!
+
       Jubei: They're a poor, small clan. You can't 
              swindle 300 pieces of gold for a sword. 
              You're asking too much - you're the fool!
+
 Bandit Boss: Shut up! Damn you!
+
       Jubei: [finishes his rice ball, notices the weather]
              Looks like a storm is brewing here.
              I better get movin'!
-</pre>
-        </td>
-    <td>
-    <img src="doc/jubei.jpg">
-    </td>
-</tr>
-</table>
+```
+
+![Jubei](doc/jubei.jpg)
