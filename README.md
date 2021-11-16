@@ -37,13 +37,21 @@ Check the result:
 ```
 /opt/graalvm-ce-java11-21.0.0.2/bin/gu list
 ```
+Command output:
+```
+ComponentId              Version             Component name                Stability           Origin 
+--------------------------------------------------------------------------------------------------------
+js                       21.0.0.2            Graal.js                      -                   
+graalvm                  21.0.0.2            GraalVM Core                  -                   
+native-image             21.0.0.2            Native Image                  Early adopter       github.com
+```
 
 5. Change your location to your Clojure application:
 ```
 cd ~/src/jubei
 ```
 
-6. Build you CLojure project with lein:
+6. Build you Clojure project with lein:
 ```
 lein native-image
 ```
